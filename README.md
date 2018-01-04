@@ -25,3 +25,10 @@ Achieved a Test Accuracy of 0.9939
 ![image](https://user-images.githubusercontent.com/9651206/34577626-a6c84e54-f136-11e7-9978-f6adad0b4450.png)
 
 
+## MNIST-Convolutional-Neural-Networks-Grid-Search.ipynb
+
+Used GridSearchCV to try out best combination of optimizer, dense_layer_sizes ,filters ,kernel_size and pool_size
+
+Achieved a Test Accuracy of 0.9935
+
+![image](https://user-images.githubusercontent.com/9651206/34580797-18b7e162-f143-11e7-917e-30def4927be2.png)
